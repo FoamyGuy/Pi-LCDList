@@ -4,6 +4,7 @@ Pi-LCDList
 Created by Foamyguy
 
 For use with: ![Adafruit Pi LCD Shield](http://www.adafruit.com/products/1110)
+
 ![I use this 3D printed case](http://www.thingiverse.com/thing:102397)
 
 
